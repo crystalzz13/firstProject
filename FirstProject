@@ -1,0 +1,6 @@
+git remote add origin https://github.com/AllinOneHomeschool/firstProject.git
+git add .
+git config –global user.email “hollyhorsegirl1611@gmail.com“
+git config –global user.name “Clemie Clark"
+git commit -m “Create page."
+git push -u origin master
